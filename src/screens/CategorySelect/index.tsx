@@ -1,5 +1,5 @@
 import { FlatList } from "react-native";
-import { categories } from "../../../utils/categories";
+import { categories } from "../../utils/categories";
 import { Button } from "../../components/Form/Button";
 import { 
    Container,
